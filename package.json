@@ -1,0 +1,15 @@
+{
+  "name": "hlanderdev-calander",
+  "version": "0.1.0",
+  "description": "A lightweight library for generating add to calendar links.",
+  "module": "dist/index.js",
+  "scripts": {
+    "build": "rm -rf dist && tsc",
+    "test": "echo \"Tests will be added soon.\""
+  },
+  "author": "hlander",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.9.4"
+  }
+}
